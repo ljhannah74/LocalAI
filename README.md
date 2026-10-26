@@ -1,4 +1,5 @@
 # LocalAI Text Analyzer
+[![LocalAI CI](https://github.com/ljhannah74/LocalAI/actions/workflows/ci.yml/badge.svg)](https://github.com/ljhannah74/LocalAI/actions/workflows/ci.yml)
 
 A full-stack AI-powered text analysis application built with **React, TypeScript, ASP.NET Core 10, and Ollama**.
 
@@ -8,6 +9,7 @@ The application runs without requiring Microsoft Azure or a paid cloud AI API.
 
 ## Application Screenshot
 ![LocalAI Text Analyzer showing AI analysis input](docs/images/localai-analysis.png)
+
 ![LocalAI Text Analyzer showing AI analysis results](docs/images/localai-results.png)
 
 ## Features
