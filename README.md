@@ -6,6 +6,10 @@ LocalAI performs sentiment analysis, named entity extraction, and potential pers
 
 The application runs without requiring Microsoft Azure or a paid cloud AI API.
 
+## Application Screenshot
+![LocalAI Text Analyzer showing AI analysis input](docs/images/localai-analysis.png)
+![LocalAI Text Analyzer showing AI analysis results](docs/images/localai-results.png)
+
 ## Features
 
 - Sentiment analysis: Positive, Negative, Neutral, or Mixed
