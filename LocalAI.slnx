@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="LocalAI.Api.Tests/LocalAI.Api.Tests.csproj" />
+  <Project Path="LocalAI.Api/LocalAI.Api.csproj" />
+  <Project Path="LocalAI.Core.Tests/LocalAI.Core.Tests.csproj" />
+  <Project Path="LocalAI.Core/LocalAI.Core.csproj" />
+  <Project Path="LocalAI.csproj" />
+</Solution>
